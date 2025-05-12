@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Moizz Ilyas
 
+## 🕴 About Me:
 🎓 A* A A in Maths, Further Maths & Physics (2021)  
 📊 Aspiring Data Analyst | JustIT Data Bootcamp Trainee  
 🧠 Passionate about uncovering insights & patterns in real data  
@@ -8,6 +9,7 @@
 🥊 Hobbies: Boxing, Streaming, Gaming  
 🌱 Currently learning: Azure Data Factory & Power BI dashboards  
  📍 Based in London
+ ✈ Able to fly small aircrafts 
 
 ## 💪 Strong Skills:
 - 🐍 Python (Pandas, NumPy, Matplotlib)
@@ -29,7 +31,7 @@
 - 📈 **Pet Shop Dashboard – Paws & Whiskers (Mock Project)**  
   → Built a full Azure-powered data solution for a mock business with dashboards, automation & insights.
 - 📈 **Titanic Machine Learning**
-  → 
+  → Undergone my first ever Machine Learning project to train a model
 
 ## 📫 Let's Connect
 [LinkedIn](NotYetMade) | [Email](moizzilyasofcl@gmail.com) | [GitHub](https://github.com/MMJilani)
