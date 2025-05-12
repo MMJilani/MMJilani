@@ -7,9 +7,8 @@
 🧰 Tools: Excel, SQL, Power BI, Python, Azure  
 💬 Background in teaching, retail (Boots, John Lewis) & hospitality  
 🥊 Hobbies: Boxing, Streaming, Gaming  
-🌱 Currently learning: Azure Data Factory & Power BI dashboards  
- 📍 Based in London
- ✈ Able to fly small aircrafts 
+🌱 Currently learning: Azure Data Factory & Power BI dashboards   
+📍 Based in London
 
 ## 💪 Strong Skills:
 - 🐍 Python (Pandas, NumPy, Matplotlib)
