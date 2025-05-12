@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Moizz Ilyas
 
-<!--
-**MMJilani/MMJilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A* A A in Maths, Further Maths & Physics (2021)  
+📊 Aspiring Data Analyst | JustIT Data Bootcamp Trainee  
+🧠 Passionate about uncovering insights & patterns in real data  
+🧰 Tools: Excel, SQL, Power BI, Python, Azure  
+💬 Background in teaching, retail (Boots, John Lewis) & hospitality  
+🥊 Hobbies: Boxing, Streaming, Gaming  
+🌱 Currently learning: Azure Data Factory & Power BI dashboards  
+ 📍 Based in London
 
-Here are some ideas to get you started:
+## 💪 Strong Skills:
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- Excel (VLOOKUP, PivotTables, Power Query)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Other Skills
+- SQL (Joins, Aggregates, Window Functions)
+- Power BI (DAX, Data Modelling, Visualisation)
+- Azure (Synapse, Data Factory, Machine Learning, SQL Database)
+
+## 💼 Work Experience
+- 🛍️ **Customer/Retail Advisor** at Boots & John Lewis  
+  Developed strong people skills, problem-solving under pressure, and customer empathy.
+
+- 📚 **Private Tutor**  
+  Taught Maths & Physics, adapting methods to different learning styles.
+
+## 🚀 Projects (Mock Datasets)
+- 📈 **Pet Shop Dashboard – Paws & Whiskers (Mock Project)**  
+  → Built a full Azure-powered data solution for a mock business with dashboards, automation & insights.
+- 📈 **Titanic Machine Learning**
+  → 
+
+## 📫 Let's Connect
+[LinkedIn](NotYetMade) | [Email](moizzilyasofcl@gmail.com) | [GitHub](https://github.com/MMJilani)
