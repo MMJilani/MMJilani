@@ -33,4 +33,4 @@
   → Undergone my first ever Machine Learning project to train a model
 
 ## 📫 Let's Connect
-[LinkedIn](NotYetMade) | [Email](moizzilyasofcl@gmail.com) | [GitHub](https://github.com/MMJilani)
+[LinkedIn](https://www.linkedin.com/in/moizz-masood-jilani-ilyas-529043193/) | [Email](moizzilyasofcl@gmail.com) | [GitHub](https://github.com/MMJilani)
