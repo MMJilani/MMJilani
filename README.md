@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Moizz Ilyas
+# 👋 Hi, I'm M********
 
 ## 🕴 About Me:
-🎓 A* A A in Maths, Further Maths & Physics (2021)  
+🎓 Studying Artificial Intelligence at Kings College London
 📊 Aspiring Data Analyst | JustIT Data Bootcamp Trainee  
 🧠 Passionate about uncovering insights & patterns in real data  
 🧰 Tools: Excel, SQL, Power BI, Python, Azure  
 💬 Background in teaching, retail (Boots, John Lewis) & hospitality  
-🥊 Hobbies: Boxing, Streaming, Gaming  
+🥊 Hobbies: Boxing, Streaming, Gaming 
 🌱 Currently learning: Azure Data Factory & Power BI dashboards   
 📍 Based in London
 
